@@ -12,24 +12,24 @@ Ensure this is the only SDK installed.
 
 - Select *Import Project*
 
-[!Import Project](./imgs/import.png)
+[!Import Project][./imgs/import.png]
 
 - Choose riaImpl
 
-[!Flash Builder](./imgs/riaImpl.png)
+[!Flash Builder][./imgs/riaImpl.png]
 
 - Choose Flash Builder
 
-[!Flash Builder](./imgs/fb.png)
+[!Flash Builder][./imgs/fb.png]
 
 - Use Default Settings
 
-[!Settings](./imgs/settings.png)
+[!Settings][./imgs/settings.png]
 
 - Import All
 
-[!Import All](./imgs/import-all.png)
+[!Import All][./imgs/import-all.png]
 
 ## Run Project
 
-[!Run As](./imgs/run-as.png)
+[!Run As][./imgs/run-as.png]
